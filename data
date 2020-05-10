@@ -1,0 +1,15 @@
+Data
+
+Based on the requirements defined above we will need the following information.
+•	The different neighbourhoods in the city.
+•	The population of each neighbourhood.
+•	The existing restaurants in each neighbourhood and their popularity.
+•	The distance of each restaurant from the city centre.
+
+Following data sources will be needed to extract/generate the required information:
+•	The names of all the neighbourhoods in the city of Delhi will be extracted by web scrapping the Wikipedia page- 
+https://en.wikipedia.org/wiki/Neighbourhoods_of_Delhi
+•	number of restaurants and their type and location in every neighbourhood will be obtained using Foursquare API
+•	The population of each area will be extracted by web scrapping the page-
+https://www.census2011.co.in/census/state/districtlist/delhi.html
+
