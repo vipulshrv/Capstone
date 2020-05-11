@@ -1,7 +1,12 @@
+OPENING AN INDIAN RESTAURANT IN DELHI CITY
+
+
 Delhi or the National Capital Territory of Delhi is one of the largest city of India and contains New Delhi, the capital of India.
-Delhi has a population of over 16 million people. In this project we are going to try to find the optimal location for opening a new
+Delhi has a population of over 16 million people. In this project we are going to try to find the optimal location for opening a new Indian
 restaurant in this city.
-Delhi has a lot of restaurants, so in order to find out the optimal location, we will try and find the locations with a dense population
-and a place that is not already crowded with restaurants. We will also want a place which is not far away from the centre of the city.
+Indian restaurants are the most common type of restaurants in Delhi.That is why the location of becomes a very important factor in
+determining the ultimate fate of the restaurant. Delhi has a lot of restaurants, so in order to find out the optimal location, we will try
+and find the locations with a dense population and a place that is not already crowded with restaurants. We will also want a place which is
+not far away from the centre of the city.
 We will use data science to figure out the neighbourhoods of Delhi which satisfy our requirements and present the advantages of each
 possible option clearly so that any stakeholder has an easier final choice in the selection of the location.   
